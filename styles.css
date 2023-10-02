@@ -32,7 +32,7 @@ h1 {
 h2 {
   margin: 16px 0;
   font-size: 1.2em;
-  color: white;
+  color: var(--text);
 }
 
 body {

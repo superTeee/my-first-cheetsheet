@@ -85,6 +85,11 @@ th {
 }
 
 @media screen and (max-width: 600px) {
+  body {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
   main {
     padding: 16px;
   }
@@ -110,6 +115,6 @@ th {
   }
 
   h2 {
-    font-size: 1.1em;
+    font-size: 1em;
   }
 }
